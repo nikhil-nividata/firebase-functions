@@ -1,0 +1,7 @@
+diff a/.firebaserc b/.firebaserc	(rejected hunks)
+@@ -1,5 +0,0 @@
+-{
+-  "projects": {
+-    "default": "flutter-chat-demo-31cb2"
+-  }
+-}
